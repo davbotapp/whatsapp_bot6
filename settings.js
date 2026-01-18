@@ -1,4 +1,4 @@
-const settings = {
+const settings = { 
   packname: 'Davbot ',
   author: 'Ir David Mpongo',
   botName: "Davbot",
