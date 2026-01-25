@@ -276,7 +276,7 @@ async function startXeonBotInc() {
             }
 
             await delay(1999)
-            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${global.botname || 'KNIGHT BOT'} ]`)}\n\n`))
+            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${global.botname || 'DAVBOT'} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
             console.log(chalk.magenta(`\n${global.themeemoji || '•'} Communauté : https://chat.whatsapp.com/IpOMwdgWmIH0GNksU4FUJn`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} Site Web : https://david-mpongo.vercel.app`))
