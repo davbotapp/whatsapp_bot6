@@ -3,7 +3,7 @@ const settings = {
   author: 'Ir David Mpongo',
   botName: "Davbot",
   botOwner: 'david mpongo', // ton nom
-  ownerNumber: '2547xxxxxx',   // ton numéro (sans +, country code inclus)
+  ownerNumber: '243846064543',   // ton numéro (sans +, country code inclus)
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",       // public = tout le monde peut utiliser les commandes
   description: "Bot pour gérer les groupes et automatiser les tâches.",
